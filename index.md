@@ -1,123 +1,97 @@
+<html><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"></html>
+
+# 🔐 fuerbahs.net 🔐
+
+Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
+
+## Last modified 2024-08-08 BETA 🛠️
+
 ---
-layout: default
+
+### Links for Christoph + Evamaria
+
+#### 🔍 Search
+
+- [Kagi](https://kagi.com)
+- [Brave Search](https://search.brave.com)
+- [Swisscows](https://swisscows.com)
+- [Startpage (via Google)](https://www.startpage.com)
+
+#### 💰 Bank
+
+- [Easybank](https://ebanking.easybank.at)
+- [Raiffeisen](https://mein.elba.raiffeisen.at)
+- [FinanzOnline](https://finanzonline.bmf.gv.at)
+- [N26](https://n26.com)
+
+#### 📞 Communication
+
+- [Whatsapp](https://web.whatsapp.com)
+- [Telegram](https://web.telegram.org)
+- [Signal](https://www.signal.org)
+- [Wire](https://wire.com)
+
+#### 📻 Radio
+
+- [ShowAgenten Radio](https://showagenten.de)
+- [RadioSOL International](https://www.radio.at/s/radiosol)
+
+#### 📰 Media
+
+- [ServusTV](https://www.servustv.com)
+- [International Crimes Investigative Committee from Dr. Reiner Fuellmich](https://icic.law)
+
+#### 🗞️ News
+
+- [Inoreader](https://www.inoreader.com)
+- [Feedly](https://feedly.com)
+
+#### 📚 Learning
+
+- [Pocket Prep](https://study.pocketprep.com)
+- [Boson](https://www.boson.com)
+
+#### ⚡ Electricity / Strom
+
+- [Energienetze Steiermark](https://portal.e-netze.at)
+- [Energie Steiermark](https://kundenportal.e-steiermark.com)
+
+#### 🌡️ District Heating / Fernwärme
+
+- [Energie Graz Fernwärme](https://portal.energie-graz.at)
+
+#### 🛡️ Insurance / Versicherung
+
+- [Wiener Städtische Versicherung](https://kundenportal.wienerstaedtische.at)
+- [Zurich Versicherung](https://meine.zurich.at/meinezurich)
+
+### Links for Christoph
+
+#### 🛠️ Tools
+
+- [1Password](https://www.1password.com)
+- [Tresorit](https://tresorit.com)
+- [Cryptpad](https://cryptpad.fr)
+- [Lieferando](https://www.lieferando.at)
+- [Ninite](https://ninite.com)
+
+#### 📬 Post
+
+- [Österreichische Post](https://www.post.at)
+- [DPD](https://www.mydpd.at)
+
+#### 🤖 AI / Artificial Intelligence
+
+- [ChatGPT](https://chat.openai.com)
+- [Auphonic](https://auphonic.com)
+
+#### 🛡️ Malware Scan
+
+- [ESET Online Scanner](https://www.eset.com/int/home/online-scanner/)
+- [F‑Secure Online Scanner](https://www.f-secure.com/en/online-scanner)
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+### Contact 📬
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[christoph@fuerbahs.com](mailto:christoph@fuerbahs.com)
