@@ -29,6 +29,7 @@ Welcome to the internal family website. Here you will find links to services and
 - [Whatsapp](https://web.whatsapp.com)
 - [Telegram](https://web.telegram.org)
 - [Signal](https://www.signal.org)
+- [Infomaniak Mail](https://ksuite.infomaniak.com/mail)
 
 #### 📻 Radio
 
