@@ -4,7 +4,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-08-08 BETA 🛠️
+## Last modified 2024-08-09 🛠️
 
 ---
 
@@ -29,12 +29,11 @@ Welcome to the internal family website. Here you will find links to services and
 - [Whatsapp](https://web.whatsapp.com)
 - [Telegram](https://web.telegram.org)
 - [Signal](https://www.signal.org)
-- [Wire](https://wire.com)
 
 #### 📻 Radio
 
 - [ShowAgenten Radio](https://showagenten.de)
-- [RadioSOL International](https://www.radio.at/s/radiosol)
+- [RadioSOL](https://www.radiosol.at)
 
 #### 📰 Media
 
@@ -89,6 +88,19 @@ Welcome to the internal family website. Here you will find links to services and
 
 - [ESET Online Scanner](https://www.eset.com/int/home/online-scanner/)
 - [F‑Secure Online Scanner](https://www.f-secure.com/en/online-scanner)
+
+
+### Useful Links 🌐
+
+Here are some additional useful links:
+
+- [DNS Speed Test](https://dnsspeedtest.online)
+- [Address Tools](https://www.addr.tools)
+- [Crypt.ee](https://crypt.ee/)
+- [Futurezone: 3D Flood Map of Austria](https://futurezone.at/digital-life/3d-karte-hochwasser-oesterreich-hora-hochwassergefahr-risiko/402912820)
+- [Notion Sites](https://stadt-bremerhaven.de/notion-sites-einfaches-erstellen-von-website/)
+- [Privacy Handbook PDF](https://www.privacy-handbuch.de/download/privacy-handbuch.pdf)
+
 
 ---
 
