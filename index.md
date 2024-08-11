@@ -4,7 +4,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-08-09 🛠️
+## Last modified 2024-08-11 🛠️
 
 ---
 
@@ -30,6 +30,7 @@ Welcome to the internal family website. Here you will find links to services and
 - [Telegram](https://web.telegram.org)
 - [Signal](https://www.signal.org)
 - [Infomaniak Mail](https://ksuite.infomaniak.com/mail)
+- [Proton Mail](https://mail.proton.me)
 
 #### 📻 Radio
 
