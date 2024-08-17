@@ -1,4 +1,6 @@
-<html><META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW"></html>
+<html>
+<meta name="robots" content="noindex, nofollow">
+</html>
 
 # 🔐 fuerbahs.net 🔐
 
