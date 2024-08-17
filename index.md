@@ -31,6 +31,7 @@ Welcome to the internal family website. Here you will find links to services and
 - [Signal](https://www.signal.org)
 - [Infomaniak Mail](https://ksuite.infomaniak.com/mail)
 - [Proton Mail](https://mail.proton.me)
+- [X / Twitter](https://x.com)
 
 #### 📻 Radio
 
