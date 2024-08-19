@@ -93,6 +93,9 @@ Welcome to the internal family website. Here you will find links to services and
 
 - [ESET Online Scanner](https://www.eset.com/int/download-utilities/)
 - [F‑Secure Online Scanner](https://www.f-secure.com/en/online-scanner)
+- [Trend Micro House Call](https://www.trendmicro.com/en_us/forHome/products/housecall.html)
+- [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
+
 
 
 ### Useful Links 🌐
