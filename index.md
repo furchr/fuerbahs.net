@@ -6,7 +6,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-08-19 🛠️
+## Last modified 2024-08-20 🛠️
 
 ---
 
@@ -104,7 +104,6 @@ Here are some additional useful links:
 
 - [DNS Speed Test](https://dnsspeedtest.online)
 - [Address Tools](https://www.addr.tools)
-- [Crypt.ee](https://crypt.ee/)
 - [Futurezone: 3D Flood Map of Austria](https://futurezone.at/digital-life/3d-karte-hochwasser-oesterreich-hora-hochwassergefahr-risiko/402912820)
 - [Notion Sites](https://stadt-bremerhaven.de/notion-sites-einfaches-erstellen-von-website/)
 - [Privacy Handbook PDF](https://www.privacy-handbuch.de/download/privacy-handbuch.pdf)
