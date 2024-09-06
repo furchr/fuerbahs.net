@@ -6,7 +6,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-08-23 🛠️
+## Last modified 2024-09-06 🛠️
 
 ---
 
