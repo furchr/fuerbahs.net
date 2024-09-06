@@ -78,6 +78,7 @@ Welcome to the internal family website. Here you will find links to services and
 - [Cryptpad](https://cryptpad.fr)
 - [Lieferando](https://www.lieferando.at)
 - [Ninite](https://ninite.com)
+- [UPIK® - Unique Partner Identification Key - Search for your company](https://www.dnb.com/de-de/upik-en.html)
 
 #### 📬 Post
 
@@ -107,7 +108,7 @@ Here are some additional useful links:
 - [Futurezone: 3D Flood Map of Austria](https://futurezone.at/digital-life/3d-karte-hochwasser-oesterreich-hora-hochwassergefahr-risiko/402912820)
 - [Notion Sites](https://stadt-bremerhaven.de/notion-sites-einfaches-erstellen-von-website/)
 - [Privacy Handbook PDF](https://www.privacy-handbuch.de/download/privacy-handbuch.pdf)
-- [Ventoy, tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files](https://www.ventoy.net)
+- [Ventoy - tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files](https://www.ventoy.net)
 
 
 ---
