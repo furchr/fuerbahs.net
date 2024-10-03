@@ -6,7 +6,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-09-06 🛠️
+## Last modified 2024-10-03 🛠️
 
 ---
 
@@ -39,6 +39,7 @@ Welcome to the internal family website. Here you will find links to services and
 
 - [ShowAgenten Radio](https://showagenten.de)
 - [RadioSOL](https://www.radiosol.at)
+- [Knister - Radio der Opposition](https://www.knister.net)
 
 #### 📰 Media
 
