@@ -18,7 +18,7 @@ Welcome to the internal family website. Here you will find links to services and
 - [Brave Search](https://search.brave.com)
 - [Swisscows](https://swisscows.com)
 - [Startpage (via Google)](https://www.startpage.com)
-- [Perplexity AI)](https://www.perplexity.ai)
+- [Perplexity AI](https://www.perplexity.ai)
 
 #### 💰 Bank
 
