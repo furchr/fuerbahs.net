@@ -6,7 +6,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-10-03 🛠️
+## Last modified 2024-10-25 🛠️
 
 ---
 
@@ -18,6 +18,7 @@ Welcome to the internal family website. Here you will find links to services and
 - [Brave Search](https://search.brave.com)
 - [Swisscows](https://swisscows.com)
 - [Startpage (via Google)](https://www.startpage.com)
+- [Perplexity AI)](https://www.perplexity.ai)
 
 #### 💰 Bank
 
@@ -98,19 +99,17 @@ Welcome to the internal family website. Here you will find links to services and
 - [Trend Micro House Call](https://www.trendmicro.com/en_us/forHome/products/housecall.html)
 - [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
 
-
-
 ### Useful Links 🌐
 
 Here are some additional useful links:
 
 - [DNS Speed Test](https://dnsspeedtest.online)
+- [Browserleaks](https://browserleaks.com)
 - [Address Tools](https://www.addr.tools)
 - [Futurezone: 3D Flood Map of Austria](https://futurezone.at/digital-life/3d-karte-hochwasser-oesterreich-hora-hochwassergefahr-risiko/402912820)
 - [Notion Sites](https://stadt-bremerhaven.de/notion-sites-einfaches-erstellen-von-website/)
 - [Privacy Handbook PDF](https://www.privacy-handbuch.de/download/privacy-handbuch.pdf)
 - [Ventoy - tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files](https://www.ventoy.net)
-
 
 ---
 
