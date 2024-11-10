@@ -6,7 +6,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-10-25 🛠️
+## Last modified 2024-11-10 🛠️
 
 ---
 
@@ -103,6 +103,7 @@ Welcome to the internal family website. Here you will find links to services and
 
 Here are some additional useful links:
 
+- [Controld](https://controld.com)
 - [DNS Speed Test](https://dnsspeedtest.online)
 - [Browserleaks](https://browserleaks.com)
 - [Address Tools](https://www.addr.tools)
