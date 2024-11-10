@@ -103,7 +103,8 @@ Welcome to the internal family website. Here you will find links to services and
 
 Here are some additional useful links:
 
-- [Controld](https://controld.com)
+- [Control D](https://controld.com)
+- [Control D - Status](https://controld.com/status)
 - [DNS Speed Test](https://dnsspeedtest.online)
 - [Browserleaks](https://browserleaks.com)
 - [Address Tools](https://www.addr.tools)
