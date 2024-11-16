@@ -6,7 +6,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-11-11 🛠️
+## Last modified 2024-11-16 🛠️
 
 ---
 
@@ -90,7 +90,7 @@ Welcome to the internal family website. Here you will find links to services and
 
 #### 🤖 AI / Artificial Intelligence
 
-- [ChatGPT](https://chat.openai.com)
+- [ChatGPT](https://chatgpt.com)
 - [Auphonic](https://auphonic.com)
 
 #### 🛡️ Malware Scan
