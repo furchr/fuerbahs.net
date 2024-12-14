@@ -104,7 +104,12 @@ Welcome to the internal family website. Here you will find links to services and
 - [F‑Secure Online Scanner](https://www.f-secure.com/en/online-scanner)
 - [Trend Micro House Call](https://www.trendmicro.com/en_us/forHome/products/housecall.html)
 - [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
-- [Heise Malware Protection-Tools & Security-Checklists](https://ct.de/ytu4)
+- [Hacking-Angriffe: Präventive Schutzmaßnahmen - Schutz-Tools & Security-Checklisten](https://ct.de/ytu4)
+- [Verdächtige Dateien online analysieren](https://ct.de/ybsh)
+- [OSINT-Tools für Security-Recherchen](https://ct.de/ygfs)
+- [Gefahrloser Umgang mit E-Mails: Phishing erkennen - Analysetools](https://ct.de/y2qp)
+- [Überwachung am Arbeitsplatz: Spioniert mein Chef?](https://ct.de/yc89)
+- [ 23 Tipps für Familien-Admins - So konfigurieren Sie Netzwerke, Sicherheitseinstellungen und Endgeräte](https://mac-and-i.de/w6gu)
 
 ### Useful Links 🌐
 
