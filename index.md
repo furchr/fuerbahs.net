@@ -6,7 +6,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-11-16 🛠️
+## Last modified 2024-12-14 🛠️
 
 ---
 
@@ -26,6 +26,7 @@ Welcome to the internal family website. Here you will find links to services and
 - [Raiffeisen](https://mein.elba.raiffeisen.at)
 - [FinanzOnline](https://finanzonline.bmf.gv.at)
 - [N26](https://n26.com)
+- [Curve](https://curve.com)
 
 #### 📞 Communication
 
@@ -83,6 +84,10 @@ Welcome to the internal family website. Here you will find links to services and
 - [Ninite](https://ninite.com)
 - [UPIK® - Unique Partner Identification Key - Search for your company](https://www.dnb.com/de-de/upik-en.html)
 
+#### Windows Update Software
+- [UniGetUI](https://www.marticliment.com/unigetui/)
+- [Präventiver Schutz: So werden Sie nicht gehackt](https://www.heise.de/ratgeber/Praeventiver-Schutz-So-werden-Sie-nicht-gehackt-9990371.html?seite=all)
+
 #### 📬 Post
 
 - [Österreichische Post](https://www.post.at)
@@ -99,6 +104,7 @@ Welcome to the internal family website. Here you will find links to services and
 - [F‑Secure Online Scanner](https://www.f-secure.com/en/online-scanner)
 - [Trend Micro House Call](https://www.trendmicro.com/en_us/forHome/products/housecall.html)
 - [Kaspersky Virus Removal Tool](https://www.kaspersky.com/downloads/free-virus-removal-tool)
+- [Heise Malware Protection-Tools & Security-Checklists](https://ct.de/ytu4)
 
 ### Useful Links 🌐
 
