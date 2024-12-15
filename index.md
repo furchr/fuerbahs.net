@@ -6,7 +6,7 @@
 
 Welcome to the internal family website. Here you will find links to services and companies that we frequently use. This section is meant for private use. 🔒
 
-## Last modified 2024-12-14 🛠️
+## Last modified 2024-12-15 🛠️
 
 ---
 
@@ -115,6 +115,7 @@ Welcome to the internal family website. Here you will find links to services and
 
 Here are some additional useful links:
 
+- [Nextdns](https://nextdns.io)
 - [Control D](https://controld.com)
 - [Control D - Status](https://controld.com/status)
 - [DNS Speed Test](https://dnsspeedtest.online)
